@@ -8,4 +8,12 @@ curl -X POST \
 
 i love you wolfy and i want you to never forget that
 
-important
+list of things to do:
+
+i might set up my commands to all stem off the same prefix.
+control + p = top search bar
+controll + shift + p = command palet
+control + space = copilot chat
+control + option + space = copy to file
+control + option + enter = copy to terminal
+
