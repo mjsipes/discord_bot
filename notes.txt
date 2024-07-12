@@ -5,3 +5,5 @@ curl -X POST \
 -H "Authorization: Bot $BOT_TOKEN" \
 -d '{"name":"hello","description":"Greet a person","options":[{"name":"name","description":"The name of the person","type":3,"required":true}]}' \
 "https://discord.com/api/v8/applications/$CLIENT_ID/commands"
+
+i love you wolfy and i want you to never forget that
