@@ -7,3 +7,5 @@ curl -X POST \
 "https://discord.com/api/v8/applications/$CLIENT_ID/commands"
 
 i love you wolfy and i want you to never forget that
+
+important
